@@ -180,8 +180,8 @@
                         <span class="block">Carefully picked high end properties</span>
                         <span class="block">MOST RECENT PROPERTY OFFERS FOR YOU</span>
                     </div>
-                    <div class="grid grid-cols-3 gap-4">
-                        <div class="">
+                    <div class="flex justify-around my-10">
+                        <div class="flex justify-center">
                             <div class="mx-10 w-full shadow-md rounded-md">
                                 <div class="relative">
                                     <span class="absolute px-3 py-1 left-0 text-white bg-blue-700 font-bold text-sm font-roboto rounded-tl-md">
@@ -194,29 +194,98 @@
                                         Property Title 1
                                     </p>
                                     <p class="text-gray-800">30 Webber Street, London, UK</p>
-                                    <button class="px-10 py-3 mt-4 bg-blue-700 text-white font-bold uppercase">View Property</button>
+                                    <button class="px-8 py-2 mt-4 bg-blue-500 text-white text-sm font-bold uppercase">View Property</button>
                                 </div>
                                 <div>
-                                    <div class="grid grid-cols-3 gap-0 border">
-                                        <div class="border">
-
+                                <hr />
+                                    <div class="grid grid-cols-3 gap-0 py-2">
+                                        <div class="">
+                                            <i class="fas fa-expand-alt text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">500 ft sq</span>
                                         </div>
-                                        <div class="border">1</div>
-                                        <div class="border">9</div>
+                                        <div class="">
+                                            <i class="fas fa-bed text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">3 Bedrooms</span>
+                                        </div>
+                                        <div class="">
+                                            <i class="fas fa-tint text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">2 Bathrooms</span>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="">
-                        s
+                        <div class="flex justify-center">
+                             <div class="mx-10 w-full shadow-md rounded-md">
+                                <div class="relative">
+                                    <span class="absolute px-3 py-1 left-0 text-white bg-blue-700 font-bold text-sm font-roboto rounded-tl-md">
+                                        700,000$
+                                    </span>
+                                    <img src="https://images.unsplash.com/photo-1459535653751-d571815e906b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80" alt="" class="rounded-t-md">
+                                </div>
+                                <div class="px-10 py-3 ">
+                                    <p>
+                                        Property Title 1
+                                    </p>
+                                    <p class="text-gray-800">30 Webber Street, London, UK</p>
+                                    <button class="px-8 py-2 mt-4 bg-blue-500 text-white text-sm font-bold uppercase">View Property</button>
+                                </div>
+                                <div>
+                                    <hr />
+                                    <div class="grid grid-cols-3 gap-0 py-2">
+                                        <div class="">
+                                            <i class="fas fa-expand-alt text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">500 ft sq</span>
+                                        </div>
+                                        <div class="">
+                                            <i class="fas fa-bed text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">3 Bedrooms</span>
+                                        </div>
+                                        <div class="">
+                                            <i class="fas fa-tint text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">2 Bathrooms</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="">
-                        s
+                        <div class="flex justify-center">
+                             <div class="mx-10 w-full shadow-md rounded-md">
+                                <div class="relative">
+                                    <span class="absolute px-3 py-1 left-0 text-white bg-blue-700 font-bold text-sm font-roboto rounded-tl-md">
+                                        700,000$
+                                    </span>
+                                    <img src="https://images.unsplash.com/photo-1459535653751-d571815e906b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80" alt="" class="rounded-t-md">
+                                </div>
+                                <div class="px-10 py-3 ">
+                                    <p>
+                                        Property Title 1
+                                    </p>
+                                    <p class="text-gray-800">30 Webber Street, London, UK</p>
+                                    <button class="px-8 py-2 mt-4 bg-blue-500 text-white text-sm font-bold uppercase">View Property</button>
+                                </div>
+                                <div>
+                                    <hr />
+                                    <div class="grid grid-cols-3 gap-0 py-2">
+                                        <div class="">
+                                            <i class="fas fa-expand-alt text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">500 ft sq</span>
+                                        </div>
+                                        <div class="">
+                                            <i class="fas fa-bed text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">3 Bedrooms</span>
+                                        </div>
+                                        <div class="">
+                                            <i class="fas fa-tint text-sm text-gray-700"></i>
+                                            <span class="text-sm text-gray-600 font-roboto">2 Bathrooms</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </section>
             <!-- Recent offers -->
-
     </div>
 </div>
 
